@@ -1,4 +1,4 @@
-# Laserpunktspiel-fuer-Katzen
+# Laserpunktspiel-für-Katzen
 Bewegter Laserpunkt für Katzenbeschäftigung
 
 # LaserCat (ESP8266 / Wemos D1 mini)
