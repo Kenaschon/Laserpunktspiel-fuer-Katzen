@@ -34,10 +34,10 @@
 #include "types.h"
 
 // ===== Gerätename (für OTA + Default MQTT Base + UI) =====
-const char* DEVICE_NAME = "LaserCat-1";
+const char* DEVICE_NAME = "LaserCat";
 
 // ===== OTA Passwort (leer = kein Passwort) =====
-const char* OTA_PASSWORD = "503588";  // "" => kein Passwort
+const char* OTA_PASSWORD = "hier Dein Sicheres Passwort";  // "" => kein Passwort
 
 // ===== Pins (avoid boot strap pins D3/D4/D8) =====
 static const uint8_t PIN_SERVO_PAN  = D5;   // GPIO14
@@ -45,13 +45,13 @@ static const uint8_t PIN_SERVO_TILT = D6;   // GPIO12
 static const uint8_t PIN_LASER      = D7;   // GPIO13 -> transistor/MOSFET recommended
 
 // ===== WiFi / MQTT =====
-const char* WIFI_SSID = "msg2";
-const char* WIFI_PASS = "1629969423743097";
+const char* WIFI_SSID = "SSID";
+const char* WIFI_PASS = "PASS";
 
-const char* MQTT_HOST = "192.168.49.38";
-const uint16_t MQTT_PORT = 1886;
-const char* MQTT_USER = "mqttuser";
-const char* MQTT_PASS = "Beowolf503588";
+const char* MQTT_HOST = "HOST";
+const uint16_t MQTT_PORT = PORT;
+const char* MQTT_USER = "USER";
+const char* MQTT_PASS = "PASS";
 
 // >>> MQTT BASE TOPIC (editable) <<<
 String MQTT_BASE = String(DEVICE_NAME);
