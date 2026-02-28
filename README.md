@@ -248,3 +248,5 @@ Preset-Defaults (runtime override):
 
 ---
 
+Copyright (c) 2026 Manfred Glanemann
+
