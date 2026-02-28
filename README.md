@@ -8,7 +8,7 @@ LaserCat ist ein ESP8266-Sketch (Arduino IDE) zur Steuerung eines 2-Achsen Servo
 
 Als Servo habe ich diese genommen:  SG90 9g Micro Servomotor.
 
-Als Laserdiode reicht diese vollkommen aus. Das ist eine kleine Laserdiode mit 6mm Durchmesser:  Laserdiode 5V roter Laser 650nm 5mW.
+Als Laserdiode reicht diese vollkommen aus. Das ist eine kleine Laserdiode mit 6mm Durchmesser:  Laserdiode 5V roter Laser 650nm 1mW.
 
 Als "Schalter" für die Laserdiode habe ich einen "DC 5V-36V 15a max 30a 400W Dual-Hochleistungs-Mosfet-Trigger-Modul" genommen. Das Modul ist vollkommen überdimensioniert, ich hatte ihn aber in meiner Bastelkiste.
 
