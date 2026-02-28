@@ -27,7 +27,7 @@ LaserCat nutzt:
 - D5 -> Servo Pan (Signal)
 - D6 -> Servo Tilt (Signal)
 
-### Gemeinsame Masse (kritisch!)
+### Gemeinsame Masse
 - Wemos GND -> Servo-Netzteil GND
 
 ---
