@@ -1,0 +1,52 @@
+{
+  "panMin": 25,
+  "panMax": 155,
+  "tiltMin": 35,
+  "tiltMax": 145,
+  "edgeMarginDeg": 6,
+
+  "parkPan": 90,
+  "parkTilt": 90,
+
+  "speed": 75,
+  "dwellMin": 150,
+  "dwellMax": 900,
+
+  "laserEnabled": true,
+  "runEnabled": true,
+  "mode": 0,
+
+  "sessionMaxMin": 10,
+  "cooldownMin": 2,
+
+  "days": [
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 1080, "stop": 1200, "preset": 2 }
+    },
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 1080, "stop": 1200, "preset": 2 }
+    },
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 1080, "stop": 1200, "preset": 2 }
+    },
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 1080, "stop": 1200, "preset": 2 }
+    },
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 1080, "stop": 1200, "preset": 2 }
+    },
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 1080, "stop": 1200, "preset": 2 }
+    },
+    { "dayEn": true,
+      "a": { "en": false, "start": 420, "stop": 480, "preset": 0 },
+      "b": { "en": true,  "start": 720,  "stop": 1200, "preset": 4 }
+    }
+  ]
+}
