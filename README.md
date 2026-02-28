@@ -1,5 +1,5 @@
 # Laserpunktspiel für Katzen
-Bewegter Laserpunkt für Katzenbeschäftigung
+Bewegter Laserpunkt zur Katzenbeschäftigung
 
 # LaserCat (ESP8266 / Wemos D1 mini)
 LaserCat ist ein ESP8266-Sketch (Arduino IDE) zur Steuerung eines 2-Achsen Servo-Turrets (Pan/Tilt) mit Laser. Das Projekt bringt eine moderne **Web-UI**, **Wochenplan (2 Fenster/Tag)**, **Preset-Zuordnung pro Zeitfenster**, **Session/Cooldown-Zyklen**, **MQTT** und **OTA** mit.
