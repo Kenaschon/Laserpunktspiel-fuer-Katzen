@@ -4,14 +4,14 @@ Bewegter Laserpunkt zur Katzenbeschäftigung
 # LaserCat (ESP8266 / Wemos D1 mini)
 LaserCat ist ein ESP8266-Sketch (Arduino IDE) zur Steuerung eines 2-Achsen Servo-Turrets (Pan/Tilt) mit Laser. Das Projekt bringt eine moderne **Web-UI**, **Wochenplan (2 Fenster/Tag)**, **Preset-Zuordnung pro Zeitfenster**, **Session/Cooldown-Zyklen**, **MQTT** und **OTA** mit.
 
-> ⚠️ Sicherheit: Laser nur verantwortungsvoll einsetzen (nicht in Augen / reflektierende Flächen). Für Haustiere nur unter Aufsicht.
-
 Als Servo habe ich diese genommen:  SG90 9g Micro Servomotor.
 
 Als Laserdiode reicht ein kleines Modul mit 9mm Durchmesser vollkommen aus:  Laserdiode 5V roter Laser 650nm 0,4mW der Laserklasse: 1.
 
 Als "Schalter" für die Laserdiode habe ich einen "DC 5V-36V 15a max 30a 400W Dual-Hochleistungs-Mosfet-Trigger-Modul" genommen. Das Modul ist vollkommen überdimensioniert, ich hatte ihn aber in meiner Bastelkiste.
 
+> ⚠️ Sicherheit: Laser nur verantwortungsvoll einsetzen (nicht in Augen / reflektierende Flächen). Für Haustiere nur unter Aufsicht.
+> 
 
 ## Features
 
