@@ -37,7 +37,7 @@
 const char* DEVICE_NAME = "LaserCat";
 
 // ===== OTA Passwort (leer = kein Passwort) =====
-const char* OTA_PASSWORD = "hier Dein Sicheres Passwort";  // "" => kein Passwort
+const char* OTA_PASSWORD = "hier Dein sicheres Passwort";  // "" => kein Passwort
 
 // ===== Pins (avoid boot strap pins D3/D4/D8) =====
 static const uint8_t PIN_SERVO_PAN  = D5;   // GPIO14
