@@ -243,5 +243,3 @@ Preset-Defaults (runtime override):
 
 ---
 
-## Lizenz
-Wähle eine Lizenz (z.B. MIT) und füge eine `LICENSE` Datei hinzu.
